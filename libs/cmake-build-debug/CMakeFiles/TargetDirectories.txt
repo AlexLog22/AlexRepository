@@ -1,0 +1,3 @@
+C:/Users/logvi/CLionProjects/libs/cmake-build-debug/CMakeFiles/libs.dir
+C:/Users/logvi/CLionProjects/libs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/logvi/CLionProjects/libs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
